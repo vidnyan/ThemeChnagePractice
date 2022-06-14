@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">ThemeChnagePractice</string>
+    <string name="dummy_text">लोरेम इप्सम एक डमी पाठ है</string>
+    <string name="hindi">हिंदी</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="select_language">भाषा का चयन करें</string>
+    <string name="this_is_a_dummy_page_information_for_about_us_this_is_just_to_test">यह हमारे बारे में के लिए एक डमी पृष्ठ जानकारी है. यह सिर्फ परीक्षण करने के लिए है।</string>
+</resources>

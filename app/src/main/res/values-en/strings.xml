@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="dummy_text">Lorem ipsum is simply dummy text</string>
+    <string name="hindi">Hindi</string>
+    <string name="english">English</string>
+    <string name="select_language">Select Language</string>
+    <string name="this_is_a_dummy_page_information_for_about_us_this_is_just_to_test" tools:ignore="ExtraTranslation">This is a dummy page information for About Us. This is just to test .</string>
+</resources>
